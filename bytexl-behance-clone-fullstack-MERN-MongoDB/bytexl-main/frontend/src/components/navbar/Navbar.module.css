@@ -1,0 +1,14 @@
+.navbar {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 8px 16px;
+}
+
+.pro {
+    color: aliceblue;
+    background: linear-gradient(to top right, rgb(55, 55, 218), blue);
+    padding: 3px 6px;
+    border-radius: 6px;
+}
