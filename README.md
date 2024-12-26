@@ -1,7 +1,7 @@
 # Behance-clone-1
 Behance Clone created with Mongo DB for ByteXL Students. The codes are well commented to make it easier for students to learn from.
 ## Some deliberate Code Choices we have made as part of the project:
-Here are the choices we have made. This is only meant for students who already have some fullstack web development experience. If you are uncomfortable with fullstack web development, our suggestion is to ignore the details below. Come back here after building a few apps to understand our choices.
+Here are the choices we have made. The numerous list of choices can seem confusing if you are early in your journey as a full stack developer. If you are uncomfortable with full stack web development, our suggestion is to ignore the details below. Come back here after building a few apps to understand our choices."
 
 1. Frontend is built with React instead of Angular, Svelte etc. 
 2. We have used the Vite bundler for bundling the app instead of Parcel, Webpack etc.  
